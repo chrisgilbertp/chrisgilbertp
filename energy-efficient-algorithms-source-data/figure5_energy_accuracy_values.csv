@@ -1,0 +1,7 @@
+epsilon,energy_index_digitised,accuracy_percent_digitised,note
+0.01,115.1,99.3,markers overlap; circle centre constrained to within 1 pixel of square centre
+0.02,110.4,98.6,markers touch; square centre from its top edge and circle centre from its bottom edge
+0.05,97.8,96.5,
+0.10,80.6,93.0,
+0.15,67.2,89.5,
+0.20,56.7,86.0,markers overlap; circle centre constrained to within 1 pixel of square centre

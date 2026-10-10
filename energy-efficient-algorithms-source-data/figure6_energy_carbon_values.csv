@@ -1,0 +1,3 @@
+item,label_in_figure,energy_kWh,carbon_intensity_kgCO2e_per_kWh,carbon_kgCO2e,digitised_energy_kWh,digitised_carbon_kgCO2e
+Algorithm A,Algorithm A,2.5,0.45,1.125,2.498,1.124
+Algorithm B,Algorithm B,1.6,0.45,0.72,1.599,0.718

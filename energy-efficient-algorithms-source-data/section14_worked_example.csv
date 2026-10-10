@@ -1,0 +1,9 @@
+quantity,symbol,value,unit,calculation,source
+Energy used by Algorithm A,E_A,2.5,kWh,stated,Section 14
+Energy used by Algorithm B,E_B,1.6,kWh,stated,Section 14
+Energy saved,E_saved,0.9,kWh,E_A - E_B = 2.5 - 1.6,Section 14
+Percentage energy reduction,reduction,36,percent,(E_saved / E_A) x 100 = (0.9 / 2.5) x 100,Section 14
+Carbon intensity (case 1),CI,0.45,kgCO2e per kWh,stated,Section 14
+Carbon avoided (case 1),C_saved,0.405,kgCO2e,E_saved x CI = 0.9 x 0.45,Section 14
+Carbon intensity (case 2),CI,0.10,kgCO2e per kWh,stated,Section 14
+Carbon avoided (case 2),C_saved,0.09,kgCO2e,E_saved x CI = 0.9 x 0.10,Section 14
