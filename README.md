@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [@chrisgilbertp](https://github.com/chrisgilbertp)
-- 👀 I’m interested in Blockchain, Cybersecurity, IoT, Cyber-Physical Systems, Artificial Intelligence, Cryptography, energy-efficient algorithms, and sustainable computing
+- 👀 I’m interested in Blockchain, Cybersecurity, IoT, Cyber-Physical Systems, Artificial Intelligence, Cryptography, energy-efficient algorithms, and sustainable computing, Website Applications, and Enterprise Applications.
 - 🌱 I’m currently learning advanced algorithm–hardware co-design, carbon-aware systems, and secure distributed architectures
 - 💞️ I’m looking to collaborate on research in green computing, secure IoT, blockchain security, AI systems, and cyber-physical systems
 - 📫 How to reach me: cabilimi@tubmanu.edu.lr
