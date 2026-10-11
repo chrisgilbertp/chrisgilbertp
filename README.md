@@ -10,5 +10,5 @@
 
 **Recent work**  
 Source data for *Energy-efficient algorithms and sustainable computing*  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23289819.svg)](https://doi.org/10.5281/zenodo.23289819)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23293162.svg)](https://doi.org/10.5281/zenodo.23293162)
 --->I want to a python code to create a calculator
