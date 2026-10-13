@@ -2,7 +2,13 @@
 
 Supplementary Material S1 for the paper **Screening cyber service outages in supply chains using flow bounds and timed recourse**.
 
-This repository folder contains the runnable code and documentation. The complete archive (including frozen network inputs, results, and figure sources) should be attached as the release asset `cyber-service-outage-screening.zip`.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23293162.svg)](https://doi.org/10.5281/zenodo.23293162)
+
+**DOI:** [https://doi.org/10.5281/zenodo.23293162](https://doi.org/10.5281/zenodo.23293162)  
+**GitHub release:** [cyber-service-outage-v1.0.0](https://github.com/chrisgilbertp/chrisgilbertp/releases/tag/cyber-service-outage-v1.0.0)  
+**Zenodo record:** [https://zenodo.org/records/23293162](https://zenodo.org/records/23293162)
+
+This repository folder contains the runnable code and documentation. The complete archive (including frozen network inputs, results, and figure sources) is available from the GitHub release and the Zenodo deposit above.
 
 ---
 
@@ -46,6 +52,15 @@ Replace `core` with `sensitivity`, `robustness`, `published`, `scaling`, or `wit
 
 Keywords: cyber dependency; supply chain vulnerability; flows over time; network interdiction; inventory; hardening
 
+## Citation
+
+```text
+chrisgilbertp. (2026). chrisgilbertp/chrisgilbertp: Cyber service outage screening – supplementary material S1 (v1.0.0).
+Zenodo. https://doi.org/10.5281/zenodo.23293162
+```
+
+Also available on GitHub: https://github.com/chrisgilbertp/chrisgilbertp/tree/main/cyber-service-outage-screening
+
 ## Licence
 
-See `LICENSE` and `NOTICE.md` (third-party Sioux Falls topology terms).
+See `LICENSE` and `NOTICE.md` (third-party Sioux Falls topology terms). Zenodo deposit is under Creative Commons Attribution 4.0 International (CC BY 4.0).
