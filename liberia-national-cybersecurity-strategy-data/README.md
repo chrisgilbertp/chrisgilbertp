@@ -4,6 +4,12 @@
 
 **Developing a national cybersecurity strategy for a safer digital future in Liberia**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23382322.svg)](https://doi.org/10.5281/zenodo.23382322)
+
+**DOI:** [https://doi.org/10.5281/zenodo.23382322](https://doi.org/10.5281/zenodo.23382322)  
+**Zenodo record:** [https://zenodo.org/records/23382322](https://zenodo.org/records/23382322)  
+**GitHub folder:** [liberia-national-cybersecurity-strategy-data](https://github.com/chrisgilbertp/chrisgilbertp/tree/main/liberia-national-cybersecurity-strategy-data)
+
 Authors: Chris Gilbert, Jeremiah Duah Leakpor, Kwitee D. Gaylah, John K. Constance, and Mercy Abiola Gilbert  
 William V. S. Tubman University, Harper, Maryland County, Liberia
 
@@ -19,7 +25,7 @@ This package supports the **Data availability** statement. It contains aggregate
 | `README.md` | This file |
 | `LICENSE` | Creative Commons Attribution 4.0 International |
 
-Attach the Excel workbook and the instruments document on the **GitHub Release** and on **Zenodo** (they are binary and are not stored as plain text in this folder tree).
+The Excel workbook, analysis script, and instruments are deposited on Zenodo (see DOI above).
 
 ## Reproduce the analysis
 
@@ -49,23 +55,12 @@ Requirements: Python 3.8 or later. Standard library only (no pip packages).
 - GCI scores for Botswana and Sierra Leone differ slightly between the article Table 2 and the GCI 2024 summary pages; ranking is identical under both sets.
 - Raw survey and interview data are **not** public, to protect participant confidentiality.
 
-## Suggested citation (update DOI after Zenodo publication)
+## Citation
 
 ```text
 Gilbert, C., Leakpor, J. D., Gaylah, K. D., Constance, J. K., & Gilbert, M. A. (2026).
-Data S1 and Data S2 for "Developing a national cybersecurity strategy for a safer digital future in Liberia" (v1.0.0).
-[GitHub release URL]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
-```
-
-## Paper data availability statement (template)
-
-```text
-Aggregate survey results, sample composition, GCI benchmark values, KPI calculations,
-risk-class counts, consistency checks, and the analysis script are available as
-Supporting Information (Data S1 and Data S2) on Zenodo under DOI
-https://doi.org/10.5281/zenodo.XXXXXXX and on GitHub at
-https://github.com/chrisgilbertp/chrisgilbertp/tree/main/liberia-national-cybersecurity-strategy-data.
-Raw survey and interview data are not publicly available to protect participant confidentiality.
+Data S1 and Data S2 for "Developing a national cybersecurity strategy for a safer digital future in Liberia".
+Zenodo. https://doi.org/10.5281/zenodo.23382322
 ```
 
 ## Licence
